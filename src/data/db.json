@@ -1,0 +1,10 @@
+[
+    {
+      "id": 1,
+      "name": "Matias Dalceggio",
+      "email": "matimati@example.com",
+      "phone": "123-456-7890",
+      "company": "WEBDEVS",
+      "status": "Active"
+    }
+  ]
